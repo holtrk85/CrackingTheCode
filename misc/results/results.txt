@@ -1,0 +1,12 @@
+random1.txt
+  1640 searches : 38 passwords cracked : 2.31% success
+random2.txt
+  3280 searches : 66 passwords cracked : 2.01% success
+random3.txt
+  4920 searches : 106 passwords cracked : 2.15% success
+random4.txt
+  6560 searches : 138 passwords cracked : 2.1% success
+random5.txt
+  8200 searches : 166 passwords cracked : 2.02% success
+
+Total pairs = 632,345,378

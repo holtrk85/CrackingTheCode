@@ -1,0 +1,9 @@
+#!/bin/bash
+
+scmruntest \
+-contextDir `pwd` \
+-packageName com.md5 \
+-Xmx4000m -Xmx2000m \
+CreatePairs $1
+
+
